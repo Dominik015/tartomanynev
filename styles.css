@@ -46,3 +46,15 @@ p.kepfelirat {
 p {
   text-align: justify;
 }
+
+#kiemelt {
+font-weight: bold;
+}
+#kepfelirat {
+text-align: center;
+line-height: 140%;
+}
+
+.kepkeret {
+  border: 5px solid rgba(3, 6, 177, 50%);
+}
